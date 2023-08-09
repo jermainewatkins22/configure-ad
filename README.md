@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>1. Setup Resources in Azure</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PeI5vY4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Inside Azure, create 2 Virtual Machines(VMs). First one will be Domain Controller or "DC-1" using Windows Sever 2022,
