@@ -48,7 +48,7 @@ the second is "Client-1" using Windows 10.
 </p>
 <p>
 Be sure to check that both VMs are on the same V-net. In Azure,
-set "DC-1's" ping assignment to Static(Very important!)
+set "DC-1's" NIC Private IP to Static(Very important!)
 </p>
 <br />
 
