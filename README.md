@@ -143,7 +143,7 @@ Login into Client-1. as the original local Admin (labuser) and loin it to the Do
 <h2>6. Setup Remote Desktop for non-admin Users on Client-1</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cy1PtcX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into Client-1 as mydomain.com\jane_admin and open system properties, click "Remote Desktop". Allow "domain users" access to the remote desktop. You acn now log into Client-1 as a normal, non-administrative user now.
