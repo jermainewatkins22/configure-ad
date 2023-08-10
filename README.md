@@ -56,7 +56,7 @@ set "DC-1's" NIC Private IP to Static(Very important!) Changing the IP address t
 <h2>2. Ensure Connectivity between te Client and Domain Controller</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IN4k9We.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Login to Client-1 with Remote desktop and ping DC-1's private IP 
