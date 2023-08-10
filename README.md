@@ -66,7 +66,7 @@ due to firewall on DC-1.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MUmFko4.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 You must disable the firewall. Login to the Domain Controller(using Remote Desktop)
