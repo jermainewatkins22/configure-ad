@@ -125,7 +125,7 @@ Create a new employee "Jane". Next add "Jane" to he Domain Admins group User-> P
 <h2>5. Join Client-1 to your Domain</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q0KxQNa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>From the Azure Portal, set Client-1's DNS settings to the DC's Private IP address
 </p>
