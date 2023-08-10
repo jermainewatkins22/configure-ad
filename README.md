@@ -76,7 +76,7 @@ the ping was successful.
 <br />
 
 
-<h2>Install Active Directory</h2>
+<h2>3. Install Active Directory</h2>
 <p>
 <img src="https://i.imgur.com/grS2erV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
