@@ -103,6 +103,8 @@ Restart and then log back into DC-1 as user: "mydomain.com\user"
 </p>
 <br />
 
+
+<h2>4. Create an Administrator Account and Normal User Account in Active Directory</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
