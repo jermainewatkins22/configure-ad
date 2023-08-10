@@ -78,7 +78,7 @@ the ping was successful.
 
 <h2>Install Active Directory</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/grS2erV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In DC-1, Install Active Directory Domain Services.  
