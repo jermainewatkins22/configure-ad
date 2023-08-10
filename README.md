@@ -44,11 +44,11 @@ the second is "Client-1" using Windows 10.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qCDCqJD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Be sure to check that both VMs are on the same V-net. In Azure,
-set "DC-1's" NIC Private IP to Static(Very important!)
+set "DC-1's" NIC Private IP to Static(Very important!) Changing the IP address to static asures that the IP address won't change.
 </p>
 <br />
 
