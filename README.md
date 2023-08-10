@@ -140,6 +140,8 @@ Login into Client-1. as the original local Admin (labuser) and loin it to the Do
 </p>
 <br />
 
+<h2>6. Setup Remote Desktop for non-admin Users on Client-1</h2>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
