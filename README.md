@@ -96,7 +96,7 @@ Configure DC-1 and add a new forest with the root domain name of "mydomain.com"
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AagPOXy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Restart and then log back into DC-1 as user: "mydomain.com\user"
