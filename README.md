@@ -106,7 +106,7 @@ Restart and then log back into DC-1 as user: "mydomain.com\user"
 
 <h2>4. Create an Administrator Account and Normal User Account in Active Directory</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HUEqn5G.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In AD Users and Computers create two Organizational Units named "EMPLOYEES" AND "ADMINS"
