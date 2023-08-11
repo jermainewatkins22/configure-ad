@@ -153,7 +153,7 @@ Log into Client-1 as mydomain.com\jane_admin and open system properties, click "
 <h2>7. Create users and attempt to log into client-1 with one of the users.</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B4KQHNF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into to DC-1 as jane_admin and open PowerShell_ISE as an Administrator. Then create a new file amd paste this script(https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)into the file. Run the script and observe the accounts being created. Open Users and Computers and observe the the accounts in the appropriate OU. Finally, attempt to log into Client-1 with one of the accounts. If able to log in, you have successfully set up Active Directory!
