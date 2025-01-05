@@ -118,7 +118,7 @@ In AD Users and Computers create two Organizational Units named "EMPLOYEES" AND 
 <img src="https://i.imgur.com/Eh4ohIt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a new employee "Jane". Next add "Jane" to he Domain Admins group User-> Properties-> Member of-> "domains_admins" the text box-> apply close the RDP connection to DC-1 and reconnect into DC-1 as mydomain\Jane
+Create a new employee "Jane". Next add "Jane" to the Domain Admins group User-> Properties-> Member of-> "domains_admins" the text box-> apply close the RDP connection to DC-1 and reconnect into DC-1 as mydomain\Jane
 </p>
 <br />
 
